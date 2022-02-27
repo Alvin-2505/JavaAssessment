@@ -51,4 +51,10 @@ public class PrinterHelper
         System.out.println( student );
         return student;
     }
+
+    //create method for validation
+    //if date is incorrect to repeat the loop until correct
+    //do not save the incorrect date into the hash map
+    //try {date birthdate input using scanner}
+    //catch {the parseerror with message }
 }
