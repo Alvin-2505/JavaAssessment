@@ -7,7 +7,7 @@ StudentGenProject
 **My Struggles**
 1. I struggled in the part whereby I have to show the score of the enrolled courses.
 2. I also could not fully grasped the fundamentals behind OOP concept and manay times I tried and errored.
-3. The date validation is also not easy to me.
+3. The date validation is also not easy to me, I try to do try catch method. I need to understand the concept more. Exception Handling
 
 **What would make the experience better**
 1. Nil as I felt Jean had done her part on giving us the clarification before tests.
